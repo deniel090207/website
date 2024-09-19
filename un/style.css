@@ -1,0 +1,22 @@
+body {
+  background-image: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  } 
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+  }
+  #para1 {
+    text-align: center;
+    color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+  }

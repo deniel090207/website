@@ -1,0 +1,30 @@
+body {
+    background-image: url('bg\ sunset.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    } 
+    
+    h1 {
+      color: rgb(255, 255, 255);
+      text-align: center;
+    }
+    
+    p {
+      font-family: verdana;
+      font-size: 20px;
+      color: white;
+    }
+    #pa1 {
+      text-align: center;
+      color: bisque;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    #p1 {color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    
+    }
+    h2{color: aliceblue;
+
+
+    }
